@@ -1,8 +1,8 @@
 #include<stdio.h>
-main()
+void main()
 {
 int i;
-for(i=0;i<5;i++)
+for(i=0;i<=5;i++)
 {
 printf("hello world");
 }
